@@ -1,14 +1,14 @@
 {
     "posts": [
         {
-            "ID": 1,
-            "Text": "hello",
+            "id": 1,
+            "text": "hello",
             "Date": "08/22/2019 03:11:18"
         },
         {
-            "ID": 2,
-            "Text": "hello agAin",
-            "Date": "08/22/2019 04:11:18"
+            "id": 2,
+            "text": "hello agAin",
+            "date": "08/22/2019 04:11:18"
         }
     ],
     "profile":{
