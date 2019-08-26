@@ -2,8 +2,7 @@
     "posts": [
         {
             "ID": 1,
-            "Text": "hello",
-            "Date": "08/22/2019 03:11:18"
+            "Text": "hello"
         }
     ]
 }
